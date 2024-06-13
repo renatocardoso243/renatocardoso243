@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I'm a web developer with experience in creating dy
 
 ## Projects
 
-Here are some of the projects I've worked on:
-
-1. **Project** - Soon.
+(SOON)
 
 
 Feel free to explore my repositories and contribute if you find something interesting!
