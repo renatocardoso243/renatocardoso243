@@ -34,7 +34,7 @@ Feel free to explore my repositories and contribute if you find something intere
 ## Contact
 
 - **Email**: renatocardoso77@hotmail.com
-- **LinkedIn**: [Renato Cardoso](https://www.linkedin.com/in/renatocardoso243)
+- **LinkedIn**: [Renato Cardoso](https://www.linkedin.com/in/rcardoso243)
 
 Thank you for visiting my profile! If you have any questions or suggestions, don't hesitate to reach out.
 
