@@ -16,7 +16,9 @@ Welcome to my GitHub profile! I'm a web developer with experience in creating dy
 
 ## Projects
 
-(SOON)
+<h1>Mais Hotéis</h1>
+<p>Site estático destinado a reserva de hotéis, utilizando Bootstrap, HTML e CSS</p>
+<p>https://mais-hoteis.vercel.app/</p>
 
 
 Feel free to explore my repositories and contribute if you find something interesting!
