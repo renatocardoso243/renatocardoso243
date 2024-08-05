@@ -17,8 +17,12 @@ Welcome to my GitHub profile! I'm a web developer with experience in creating dy
 ## Projects
 
 <h3>Mais Hoteis</h3>
-<p>Site estático destinado a reserva de hotéis, utilizando Bootstrap, HTML e CSS.</p>
+<p>Static website for hotel reservations, using Bootstrap, HTML, and CSS.</p>
 <p>https://mais-hoteis.vercel.app/</p>
+
+<h3>Techshop</h3>
+<p>Static e-commerce site, developed with ReactJS and Tailwind CSS.</p>
+<p>https://techshop-website.vercel.app//</p>
 
 
 Feel free to explore my repositories and contribute if you find something interesting!
